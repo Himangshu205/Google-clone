@@ -7,3 +7,14 @@ Technologies Used:-
 HTML5
 CSS3
 Font Awesome (for icons)
+🎯 Features
+
+Google-style navigation bar
+
+Search bar with icons
+
+Language options section
+
+Footer layout similar to Google
+
+Responsive layout (basic)
