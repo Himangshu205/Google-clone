@@ -7,7 +7,8 @@ Technologies that has been used in this:-
 (ii)CSS3
 (iii)Font Awesome (for icons)
 
-Features:
+## Features:-
+
 (i)Google-style navigation bar
 (ii)Search bar with icons
 (iii)Language options section
