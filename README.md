@@ -13,3 +13,4 @@ Technologies that has been used in this:-
 -Language options section
 -Footer layout similar to Google
 -Responsive layout (basic)
+---
