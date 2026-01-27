@@ -8,9 +8,9 @@ Technologies that has been used in this:-
 (iii)Font Awesome (for icons)
 
 ## Features:-
--Google-style navigation bar
--Search bar with icons
--Language options section
--Footer layout similar to Google
--Responsive layout (basic)
+- Google-style navigation bar
+- Search bar with icons
+- Language options section
+- Footer layout similar to Google
+- Responsive layout (basic)
 ---
