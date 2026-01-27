@@ -8,7 +8,6 @@ Technologies that has been used in this:-
 (iii)Font Awesome (for icons)
 
 ## Features:-
-
 -Google-style navigation bar
 -Search bar with icons
 -Language options section
