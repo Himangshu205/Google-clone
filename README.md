@@ -9,8 +9,8 @@ Technologies that has been used in this:-
 
 ## Features:-
 
-(i)Google-style navigation bar
-(ii)Search bar with icons
-(iii)Language options section
-(iv)Footer layout similar to Google
-(v)Responsive layout (basic)
+-Google-style navigation bar
+-Search bar with icons
+-Language options section
+-Footer layout similar to Google
+-Responsive layout (basic)
