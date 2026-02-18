@@ -1,5 +1,5 @@
-# Google-clone:-
-# This is an attempt to make a clone of the google homepage
+#  A Google-clone:-
+## This is was attempt to make a clone of the google homepage
 This project is a simple clone of the Google homepage UI, created using HTML and CSS.
 
 ## Technologies that I have used in this:-
