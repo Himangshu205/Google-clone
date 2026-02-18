@@ -3,9 +3,9 @@
 This project is a simple clone of the Google homepage UI, created using HTML and CSS.
 
 ## 2)Technologies that I have used in this:-
-- HTML5
-- CSS3
-- Font images (for icons)
+- `HTML5`
+- `CSS`
+- `Font images` (for icons)
 
 ## 3)Features:-
 - Google-style navigation bar
